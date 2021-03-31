@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1577936278 source:c:\users\dell-cu\documents\cprogrammingonline\employee record system\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"multi.h"
+
+1577936503 c:\users\dell-cu\documents\cprogrammingonline\employee record system\multi.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
