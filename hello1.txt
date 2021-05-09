@@ -1,2 +1,0 @@
-    1     SHIN_KHANT_MAUNG              20           200.000000
-    2          MAUNG_MAUNG              21           120.000000
